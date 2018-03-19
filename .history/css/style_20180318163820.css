@@ -1,0 +1,277 @@
+*{
+    padding:0px; 
+        margin:0px;
+        font-family:"微软雅黑";
+}   
+html{
+    width:100%;
+   overflow-x:hidden;
+}
+h1 {font-size: 60px; color: #FF0000; display : inline}
+h2 {font-size:40px;color: #000000; display : inline}  
+h3 {font-size: 30px;color: #000000;display: inline;font-weight: 900}
+h4 {font-size: 20px;font-weight: 900}
+#logo{
+    position: relative;
+    left: 40px;
+    top: 0px;
+}
+.container{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.nav a :hover{
+    color: red;
+}
+
+body{
+    background: #EDEDED	;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 1600px;
+}
+    
+    
+    .nav-header{
+        padding-right:16px;
+        padding-top:20px;
+    }
+.nav-item{
+    margin-left:-20px;
+    font-size: 15px;
+    letter-spacing:0px;
+    float:right;
+}
+.nav-link{
+    position: relative;
+    left: 900px;
+    top: 0px;
+    color: #000000; 
+}
+.nav-link:hover{
+    color: red;
+}
+.banner{
+    background: url("../images/banner-bg.jpg");
+    width:auto;
+    height: auto;
+    margin-top: 20px;
+    width:134.55%;
+}
+#banner-img{
+    margin:0 auto;display:block 
+}
+.word{
+    position:absolute;
+    left: 690px;
+    top: 200px;
+}
+#rectangle {
+    display : inline;
+    width: 200px;
+    height: 250px;
+    background: red;
+}
+
+.know-more{
+    background: #15171B;      
+    height: 170px;
+    width: 134.55%;
+}
+#company{
+    color:#ffffff;
+    position:absolute;
+    left: 140px;
+    top: 745px;
+}
+#cfx{
+    width: 200px;
+    height: 40px;
+    background: #ffffff;
+    position:absolute;
+    left: 1100px;
+    top: 790px;
+    border-radius:25px;
+}
+#know_more{
+    color: #15171B;
+    position:absolute;
+    left: 1170px;
+    top: 799px;
+    font-weight: bold;
+}
+.server{
+    height: 1000px;
+    width: 134.55%;
+    background: #ffffff;
+}
+.export{
+    height: 900px;
+    width: 134.55%;
+    background: #ffffff;
+}
+.row{
+    position:absolute;
+    left:200px;
+}
+.span4{
+padding-left: 140px;
+padding-right: 90px;
+
+}
+#ad-word1{
+    position:absolute;
+    left:115px;
+}
+#ad-word4{
+    position:absolute;
+    left:115;
+}
+#ad-word2{
+    position:absolute;
+    left:490px;
+}
+#ad-word5{
+    position:absolute;
+    left:490;
+}
+
+#ad-word3{
+    position:absolute;
+    left:830px;
+}
+#ad-word6{
+    position:absolute;
+    left:850px;
+}
+#row2{
+    position:absolute;
+    top:1500px; 
+       
+}
+
+.advert{
+    background: url("../images/23_02.png");
+    width:auto;
+    height: 800px;
+    margin-top: 20px;
+    width: 134.55%;
+}
+
+
+
+
+#span3-1 img{
+    padding-top: 30px;
+}
+
+#span3-2 img{
+    padding-top: 30px;
+}
+
+#span3-3 img{
+    padding-top: 30px;
+}
+
+#span3-4 img{
+    padding-top: 30px;
+}
+#span3-1{
+    width:240px;
+    height: 400px;
+    background: #ffffff;
+padding-left: 15px;
+padding-right: 15px;
+}
+#span3-2{
+    width:240px;
+    height: 400px;
+    background: #ffffff;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#span3-3{
+    width:240px;
+    height: 400px;
+    background: #ffffff;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#span3-4{
+    width:240px;
+    height: 400px;
+    background: #ffffff;
+    padding-left: 15px;
+    padding-right: 15px;
+} 
+#bor{
+  
+    background: #C9C9C9
+}
+.Company{
+    height: 900px;
+    width: 134.55%;
+    background: #F1EDED;
+}
+#bor1{
+    position: relative;
+    top: -25px;
+    background: #C9C9C9;
+    width: 268px;
+}
+#bor{
+    position: relative;
+    top: -25px;
+    width:274px
+}
+.lsdz{
+    background: url("../images/ad.png");
+    height: 440px;
+    width: 134.55%;
+}
+#web{
+    color: #FFFFFF;
+    font-size: 50px;
+    font-weight: 900;
+    position: relative;
+    left: 25%;
+    top: 25%;
+}
+#web2{
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: 400px;
+    position: relative;
+    left: 45%;
+    top: 25%;
+}
+.new{
+    background: #ffffff;
+    height: 440px;
+    width: 134.55%;
+}
+.res_t{
+    background: #1A1919;
+    height: 440px;
+    width: 134.55%;
+    
+}
+
+.news a{
+    color: #000000; 
+    
+}
+.span6{
+    width: 600px;
+}
+.span4 li{
+    position: relative;
+    left: 1%;
+}
+.address{
+    background: url("../images/2_02.png");
+    height: 440px;
+    width: 134.55%;
+}
